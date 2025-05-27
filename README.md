@@ -35,7 +35,7 @@
 ![UseCase_04](/docs/UseCase_03.png)
 
 - PHYADDR：TJA1101=0x06, SR8201F=0x02
-- シリアルコマンド：a送信=全レジスタ読み出し, r <phyaddr> <register number>送信=指定レジスタ読出, w <phyaddr> <register number> <レジスタ値>送信=指定レジスタ書込
+- シリアルコマンド：a 送信=全レジスタ読み出し, r (phyaddr) (register number) 送信=指定レジスタ読出, w (phyaddr) (register number) (レジスタ値) 送信=指定レジスタ書込
 
 
 ### 販売ページ
