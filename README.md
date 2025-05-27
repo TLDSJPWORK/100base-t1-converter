@@ -1,4 +1,4 @@
-# 100base-t1-converter for Educationn
+# 100base-t1-converter for Education
 学習用 100Base-T1 MediaConnverter
 
 ### 特徴
