@@ -5,7 +5,7 @@
 - NXP社のTJA1101とCoreChips社のSR8201F（Realtek社 RTL8201F互換）を使用した 100Base-T1 <-> 100Base-TX のMediaConverterです。
 - STM32F103C8T6を搭載したBlue Pill[参考URL](https://en.wikipedia.org/wiki/STM32)を使うことでPHYの設定をMDIOを用いて確認／実施することができ、PHY層の動きを学習することができます。
 - オリジナルは Creative Commons Attribution-ShareAlike 4.0 International ライセンスで公開されている[100base-t1-converter](https://github.com/ehntoo/100base-t1-converter)です。作者はehntoo様です。
-- 本プロダクトはベースプロダクトから、MDIOでPHYの設定を読み書きするプログラムを追加し、また、[LCSC](https://www.lcsc.com/)で部品を注文するための具体的な部品番号の追加および部品配置の変更と、基盤を[JLCPCB](https://jlcpcb.com/)でより安く注文できるように最小ドリル径を変更したものとなります。
+- 本プロダクトはベースプロダクトから、MDIOでPHYの設定を読み書きするプログラムを追加し、また、[LCSC](https://www.lcsc.com/)で部品を注文するための具体的な部品番号の追加および部品配置の変更と、基板を[JLCPCB](https://jlcpcb.com/)でより安く注文できるように最小ドリル径を変更したものとなります。
 - 本プロダクトのライセンスは Creative Commons Attribution-ShareAlike 4.0 International を継承します。
 
 ### 基板
